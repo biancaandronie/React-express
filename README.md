@@ -9,7 +9,7 @@ Daca nu-ti merge imi zici maine si-ti mai spun ce am instalat.
 
 Mongo:
 1-MongoDb Atlas
-https://cloud.mongodb.com/v2/5b72a43cc0c6e3041a8b74ff#clusters(imi ceri userul si parola in privat daca vrei sa te uiti:D )
+https://cloud.mongodb.com/v2/5b72a43cc0c6e3041a8b74ff#clusters (imi ceri userul si parola in privat daca vrei sa te uiti:D )
 
 2-npm install mongoose@4.10.8 --save
 https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
