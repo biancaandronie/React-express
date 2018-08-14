@@ -16,7 +16,7 @@
     "gulp": "^3.9.1",
     "gulp-live-server": "0.0.31",
     "jquery": "^2.2.4",
-    "mongoose": "^4.13.14",
+    "mongoose": "^4.10.8",
     "node-jsx": "^0.13.3",
     "npm": "^6.3.0",
     "package.json": "^2.0.1",
