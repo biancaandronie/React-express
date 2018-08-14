@@ -8,8 +8,8 @@ Daca nu-ti merge imi zici maine si-ti mai spun ce am instalat.
 
 
 Mongo:
-1-instaleaza baza de date https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-windows/#install-mongodb-community-edition - (cred ca e ok)
-*sa nu uiti sa adaugi la variabile de sistem
+1-MongoDb Atlas
+https://cloud.mongodb.com/v2/5b72a43cc0c6e3041a8b74ff#clusters(imi ceri userul si parola in privat daca vrei sa te uiti:D )
 
 2-npm install mongoose@4.10.8 --save
 https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
