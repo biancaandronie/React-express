@@ -13,3 +13,6 @@ https://cloud.mongodb.com/v2/5b72a43cc0c6e3041a8b74ff#clusters (imi ceri userul 
 
 2-npm install mongoose@4.10.8 --save
 https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
+
+
+Am add "modificari" si am schimbat style.css
